@@ -6,4 +6,4 @@ In this lab, I have learnt to:
 2. create a README file
 3. insert picture in README file
 
-![img.png](../../../../img.png)
+![img.png](img.png)
